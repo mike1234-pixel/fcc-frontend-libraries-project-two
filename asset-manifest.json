@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-frontend-libraries-project-two/static/css/main.3497258f.chunk.css",
+    "main.js": "/fcc-frontend-libraries-project-two/static/js/main.661544a5.chunk.js",
+    "main.js.map": "/fcc-frontend-libraries-project-two/static/js/main.661544a5.chunk.js.map",
+    "runtime-main.js": "/fcc-frontend-libraries-project-two/static/js/runtime-main.5c29899c.js",
+    "runtime-main.js.map": "/fcc-frontend-libraries-project-two/static/js/runtime-main.5c29899c.js.map",
+    "static/js/2.7e46d1b8.chunk.js": "/fcc-frontend-libraries-project-two/static/js/2.7e46d1b8.chunk.js",
+    "static/js/2.7e46d1b8.chunk.js.map": "/fcc-frontend-libraries-project-two/static/js/2.7e46d1b8.chunk.js.map",
+    "index.html": "/fcc-frontend-libraries-project-two/index.html",
+    "precache-manifest.c522200b904a88f696ccc4970bc38004.js": "/fcc-frontend-libraries-project-two/precache-manifest.c522200b904a88f696ccc4970bc38004.js",
+    "service-worker.js": "/fcc-frontend-libraries-project-two/service-worker.js",
+    "static/css/main.3497258f.chunk.css.map": "/fcc-frontend-libraries-project-two/static/css/main.3497258f.chunk.css.map",
+    "static/js/2.7e46d1b8.chunk.js.LICENSE.txt": "/fcc-frontend-libraries-project-two/static/js/2.7e46d1b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c29899c.js",
+    "static/js/2.7e46d1b8.chunk.js",
+    "static/css/main.3497258f.chunk.css",
+    "static/js/main.661544a5.chunk.js"
+  ]
+}
