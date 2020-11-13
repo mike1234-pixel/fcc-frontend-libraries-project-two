@@ -1,0 +1,23 @@
+// global reset
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; // 1 rem = 10px, because 10px/16px (which is the default) = 62.5%
+}
+
+body {
+  margin: 0;
+  font-family: Arial, times;
+  font-size: 2rem;
+  background-image: linear-gradient(
+    to right bottom,
+    rgba(white, 1),
+    rgba(#e3dac9, 1)
+  );
+}

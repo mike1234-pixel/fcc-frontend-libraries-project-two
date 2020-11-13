@@ -1,0 +1,15 @@
+.heading-container {
+  text-align: center;
+}
+
+.heading {
+  margin: 5rem;
+  font-size: 7rem;
+  font-family: "Cabin Sketch";
+}
+
+@media (max-width: 370px) {
+  .heading {
+    font-size: 5rem;
+  }
+}

@@ -1,0 +1,41 @@
+.main-container {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+#preview {
+  min-width: 40vw;
+  min-height: 90vh;
+  margin: 0 5rem 5rem;
+}
+
+#editor {
+  min-width: 40vw;
+  min-height: 90vh;
+  margin: 0 5rem 5rem;
+}
+
+@media (max-width: 1000px) {
+  .main-container {
+    flex-direction: column;
+
+    #preview {
+      min-width: 20rem;
+    }
+
+    #editor {
+      min-width: 20rem;
+    }
+  }
+}
+
+.footnote-container {
+  text-align: center;
+}
+
+.footnote {
+  font-family: "DM Mono";
+  font-size: 1.5rem;
+}
